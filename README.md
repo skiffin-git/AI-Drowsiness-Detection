@@ -49,11 +49,10 @@ https://drive.google.com/drive/folders/1PUwV1O95wox4DGVg4exT01PIVtWLwjL7?usp=sha
 4. Make sure that path is correct: 
 /MyDrive/Colab Notebooks/Drowsiness_Detection/
 5. Before running the project, should run next command in linux based console:
- FOR FRESH BUILD:
- install dlib (will take 10 or more minutes)
- !apt update
- !apt install -y cmake
- !pip install dlib
+* install dlib (will take 10 or more minutes)
+* !apt update
+* !apt install -y cmake
+* !pip install dlib
 6. Make sure that you have connected to computer or use laptop camera
 7. Camera should not be used by other devices
 8. In runtime use Run  all
