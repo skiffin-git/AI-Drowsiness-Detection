@@ -41,24 +41,6 @@
 
 ![marks](images/landmarks.png)
 
-# Steps to run the project
-
-1. Create gdrive dedicated folder for project
-2. Copy project files from my gdrive to yours: 
-https://drive.google.com/drive/folders/1PUwV1O95wox4DGVg4exT01PIVtWLwjL7?usp=sharing
-4. Make sure that path is correct: 
-/MyDrive/Colab Notebooks/Drowsiness_Detection/
-5. Before running the project, should run next command in linux based console:
-* install dlib (will take 10 or more minutes)
-* !apt update
-* !apt install -y cmake
-* !pip install dlib
-6. Make sure that you have connected to computer or use laptop camera
-7. Camera should not be used by other devices
-8. In runtime use Run  all
-9. Connect to your gdrive
-* If need to restart, use Restart and run all
-
 
 
 
